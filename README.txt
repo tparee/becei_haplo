@@ -2,6 +2,7 @@
 ### HAPLO pipeline ###
 
 (!) WIP. For now it is still very dirty and not optimal.
+(!) The genotype folder is too big to be added on Git Hub. It should contain two folder: "stringentFiltering" and "Unfiltered", containing the high quality SNP and RILs genotype table, or unfiltered ones, respectively. 
 
 This pipeline aims to infer the founder haplotypes and filter the genotyping error in becei RILS
 
